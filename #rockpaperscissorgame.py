@@ -39,4 +39,5 @@ while True:
     # false or (true or false) ===> true
     # false or (false or false) ===> false
     # false or (true and false) ===> false
+
     # False and (true or false) ===> false
